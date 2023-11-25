@@ -1,6 +1,6 @@
 # Social-media-feed
  This is a social media platform to  create feed add messages in post and search feeds Tech used MongoDB, React.js, React Query, Node.js, Express.js and React-router
-
+Link:-  https://social-feed-app.onrender.com
 # Usage
 
 1. Here is the link attached for the deployed website Click on it.
