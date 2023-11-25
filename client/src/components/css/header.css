@@ -1,0 +1,19 @@
+#moving {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.5s ease-out 0.2s;
+}
+
+#moving.nav-open {
+  grid-template-rows: 1fr;
+}
+
+.inner {
+  overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  #moving {
+    display: flex;
+  }
+}
